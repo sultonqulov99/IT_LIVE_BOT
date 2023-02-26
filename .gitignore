@@ -2,8 +2,6 @@
 
 /logs
 
-*.env
-
 /certificates
 
 /templates
